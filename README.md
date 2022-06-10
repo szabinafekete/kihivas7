@@ -9,6 +9,7 @@ Készíts egy 16 sorból és 7 oszlopból álló táblázatot. A fejlécben a h�
 Eredményül ezt a nézetet kell kapnod:
 
 ![1 nap-1](https://user-images.githubusercontent.com/92752026/173106796-d41a6033-7b7a-4d6a-9b54-aa58c8a879d5.png)
+
 (a példában én csak a második és harmadik sorba írtam bele a sorjelzőt, viszont mindenhol megvannak az üres sorok)
 
 # 2. nap / Feladat részletes leírása!

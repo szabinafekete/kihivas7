@@ -8,7 +8,7 @@ Készíts egy 16 sorból és 7 oszlopból álló táblázatot. A fejlécben a h�
 
 Eredményül ezt a nézetet kell kapnod:
 
-![1 nap-1](https://user-images.githubusercontent.com/92752026/173106796-d41a6033-7b7a-4d6a-9b54-aa58c8a879d5.png)
+![1 nap-1](https://user-images.githubusercontent.com/92752026/173111816-7c1aa313-5b61-466a-be37-0eddbbe3925e.png)
 
 (a példában én csak a második és harmadik sorba írtam bele a sorjelzőt, viszont mindenhol megvannak az üres sorok)
 

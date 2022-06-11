@@ -27,3 +27,15 @@ A vasárnap oszlopában található számokat színezd #c0c0c0 színre.
 Ezt az eredményt kell kapnod:
 
 ![2 nap-1](https://user-images.githubusercontent.com/92752026/173106893-3392baeb-c735-4e5f-8127-d9bcf50e46de.png)
+
+# 3. nap / Feladat részletes leírása!
+
+A **táblázat** akkor igazán csinos, ha van egy kis sarokkerekítés. Kerekíts le a táblázat szegélyének sarkait 0.5vh értékkel, és növeld a táblázat szélességét 100%-ra.
+
+A **fejlécek** kapjanak belső margót (padding), fent és lent 1vh és két oldalt 2vw értékben. Legyen a háttere #4c576b színű, és a betűk színét állítsd fehérre.
+
+A bal szélső fejléc cella bal-felső sarka legyen lekerekítve 0.5vh értékben. A jobb szélső fejléc cellának pedig a jobb felső sarka kapjon ugyanilyen kerekítést.
+
+A tartalmi cellák magassága legyen 2vh értékű. Legyen fent és lent 1.4vh és kétoldalt 3vh értékű belső margója. A betűk legyenek vastagok, és állítsd a színűket #777a7f kódra.
+
+Ezt kell kapnod eredményül:

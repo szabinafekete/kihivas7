@@ -39,3 +39,5 @@ A bal szélső fejléc cella bal-felső sarka legyen lekerekítve 0.5vh értékb
 A tartalmi cellák magassága legyen 2vh értékű. Legyen fent és lent 1.4vh és kétoldalt 3vh értékű belső margója. A betűk legyenek vastagok, és állítsd a színűket #777a7f kódra.
 
 Ezt kell kapnod eredményül:
+
+![3 nap-1](https://user-images.githubusercontent.com/92752026/173191397-0f0a07a1-7507-4895-a138-61d191975b57.png)

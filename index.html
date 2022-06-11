@@ -7,20 +7,41 @@
     <title>7. Kihívás</title>
     <link rel="shortcut icon" href="icon.png" type="image/x-icon">
     <style>
-        table, td {
-            border: 1px solid #ddd;
-            border-collapse: collapse;
+        * {
+            color: #777a7f;
         }
-        td {
-            border-top: 0;
-            border-bottom: 0;
+        table {
+            border: 1px solid #ddd;
+            border-spacing: 0;
+            width: 100%;
+            border-radius: 0.5vh;
+        }
+        tr td:not(:first-child) {
+            border-left: 1px solid #ddd;
         }
         .numcells td {
             border-top: 1px solid #ddd;
         }
-        .numcells td:last-child {
+        .numcells td:last-child, th:last-child {
             color: #c0c0c0;
         }
+        thead th {
+            padding: 1vh 2vw;
+            background-color: #4c576b;
+            color: #fff;
+        }
+        thead th:first-child {
+            border-top-left-radius: 0.5vh;
+        }
+        thead th:last-child {
+            border-top-right-radius: 0.5vh;
+        }
+        td {
+            height: 2vh;
+            padding: 1.4vh 3vh;
+            font-weight: bold;
+        }
+        
     </style>
 </head>
 

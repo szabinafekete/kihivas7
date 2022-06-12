@@ -53,8 +53,8 @@ A fenti osztályokhoz állítsd be az alábbi stílusokat:
 - **tnfColor**: a betűszín legyen #777a7f
 - **tnfBC1**: a háttérszín legyen #e2cae2;
 
-  Eredményül ezt a kell, hogy kapd:
+Eredményül ezt a kell, hogy kapd:
   
 ![4 nap-1](https://user-images.githubusercontent.com/92752026/173239336-60fe8bc2-a5fb-4c1d-bf9e-682d8feb4b43.png)
   
- (link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/) )
+(link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/) )

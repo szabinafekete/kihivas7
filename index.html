@@ -10,6 +10,9 @@
         * {
             color: #777a7f;
         }
+        a {
+            text-decoration: none;
+        }
         table {
             border: 1px solid #ddd;
             border-spacing: 0;
@@ -22,7 +25,7 @@
         .numcells td {
             border-top: 1px solid #ddd;
         }
-        .numcells td:last-child, th:last-child {
+        .numcells td:last-child {
             color: #c0c0c0;
         }
         thead th {
@@ -41,7 +44,16 @@
             padding: 1.4vh 3vh;
             font-weight: bold;
         }
-        
+        .tnf {
+            line-height: 0.5vh;
+            border-radius: 0.5vh;
+        }
+        .tnfColor {
+            color: #777a7f;
+        }
+        .tnfBC1 {
+            background-color: #e2cae2;
+        }
     </style>
 </head>
 
@@ -70,7 +82,7 @@
                 <td>5</td>
             </tr>
             <tr>
-                <td>első sor</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -79,13 +91,9 @@
                 <td></td>
             </tr>
             <tr>
-                <td>második sor</td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td colspan="5" class="tnf tnfColor tnfBC1"><a href="https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/" target="_blank">Bevezetés a webprogramozásba</a></td>
             </tr>
             <tr class="numcells">
                 <td>6</td>
@@ -97,10 +105,7 @@
                 <td>12</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td colspan="4" class="tnf tnfColor tnfBC1"></td>
                 <td></td>
                 <td></td>
                 <td></td>

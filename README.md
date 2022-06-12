@@ -41,3 +41,20 @@ A tartalmi cellák magassága legyen 2vh értékű. Legyen fent és lent 1.4vh �
 Ezt kell kapnod eredményül:
 
 ![3 nap-1](https://user-images.githubusercontent.com/92752026/173191397-0f0a07a1-7507-4895-a138-61d191975b57.png)
+
+# 4. nap / Feladat részletes leírása!
+
+Ahhoz, hogy a tanfolyam sáv jól nézzen ki, össze kell vonni a cellákat és háttérszínnel kitölteni. Amennyi cellát összevonsz, annyit ki is kell törölni a HTML kódból.
+
+Vond össze a második sor celláit június 1-től kezdve június 5-ig. Adj ennek az összevont cellának egy tnf, egy tnfColor és egy tnfBC1-es nevű osztályt. Értéknek tegyél a cellába egy <a> taget, aminek felirata: „Bevezetés a webprogramozásba” és mutasson a tanfolyam linkjére. Nyissa meg új ablakban az oldalt a kattintás során.
+
+A fenti osztályokhoz állítsd be az alábbi stílusokat:
+- **tnf**: sormagasság: 0.5vh és szegély kerekítés: 0.5vh
+- **tnfColor**: a betűszín legyen #777a7f
+- **tnfBC1**: a háttérszín legyen #e2cae2;
+
+  Eredményül ezt a kell, hogy kapd:
+  
+![4 nap-1](https://user-images.githubusercontent.com/92752026/173239336-60fe8bc2-a5fb-4c1d-bf9e-682d8feb4b43.png)
+  
+ (link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/) )

@@ -58,3 +58,15 @@ Eredményül ezt a kell, hogy kapd:
 ![4 nap-1](https://user-images.githubusercontent.com/92752026/173239336-60fe8bc2-a5fb-4c1d-bf9e-682d8feb4b43.png)
   
 (link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/) )
+  
+ # 5. nap / Feladat részletes leírása!
+  
+ Az első tanfolyam példája alapján készítsd el a többi tanfolyam megjelenítését is.
+
+Ezt kell eredményül kapnod:
+  
+Ha szeretnél bonyolítani a feladaton, akkor térj el a képtől, és
+
+- a második tanfolyam kezdődjön 10-én pénteken, és tartson 12 napon át,
+- a harmadik tanfolyam kezdődjön 14-én kedden, és tartson 7 napon át,
+- a negyedik tanfolyam kezdődjön 23-án csütörtökön, és tartson 6 napon át.

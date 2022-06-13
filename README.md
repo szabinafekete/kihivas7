@@ -59,11 +59,13 @@ Eredményül ezt a kell, hogy kapd:
   
 (link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/) )
   
- # 5. nap / Feladat részletes leírása!
+# 5. nap / Feladat részletes leírása!
   
- Az első tanfolyam példája alapján készítsd el a többi tanfolyam megjelenítését is.
+Az első tanfolyam példája alapján készítsd el a többi tanfolyam megjelenítését is.
 
 Ezt kell eredményül kapnod:
+
+![5 nap-1](https://user-images.githubusercontent.com/92752026/173403424-01d1ca34-6fdc-4043-96a6-951bc7afa384.png)
   
 Ha szeretnél bonyolítani a feladaton, akkor térj el a képtől, és
 

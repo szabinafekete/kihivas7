@@ -72,3 +72,5 @@ Ha szeretnél bonyolítani a feladaton, akkor térj el a képtől, és
 - a második tanfolyam kezdődjön 10-én pénteken, és tartson 12 napon át,
 - a harmadik tanfolyam kezdődjön 14-én kedden, és tartson 7 napon át,
 - a negyedik tanfolyam kezdődjön 23-án csütörtökön, és tartson 6 napon át.
+  
+Ha szeretnéd megoldani a nehezített feladatot, akkor ehhez ez az elvárt eredmény:

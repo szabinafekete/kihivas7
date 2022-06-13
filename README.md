@@ -74,3 +74,5 @@ Ha szeretnél bonyolítani a feladaton, akkor térj el a képtől, és
 - a negyedik tanfolyam kezdődjön 23-án csütörtökön, és tartson 6 napon át.
   
 Ha szeretnéd megoldani a nehezített feladatot, akkor ehhez ez az elvárt eredmény:
+
+![5 nap_nehezites1](https://user-images.githubusercontent.com/92752026/173405647-03bd5570-f877-4c97-850f-73021cabcf21.png)

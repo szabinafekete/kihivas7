@@ -42,7 +42,12 @@ Ezt kell kapnod eredményül:
 
 ![3 nap-1](https://user-images.githubusercontent.com/92752026/173191397-0f0a07a1-7507-4895-a138-61d191975b57.png)
 
-# 4. nap / Feladat részletes leírása!
+# 4. nap / Feladat részletes Készítsd el az alábbi nézetet a kép alapján!
+
+Az ikonok forrását itt találod:
+
+nyitott lakat
+zárt lakatleírása!
 
 Ahhoz, hogy a tanfolyam sáv jól nézzen ki, össze kell vonni a cellákat és háttérszínnel kitölteni. Amennyi cellát összevonsz, annyit ki is kell törölni a HTML kódból.
 
@@ -76,3 +81,16 @@ Ha szeretnél bonyolítani a feladaton, akkor térj el a képtől, és
 Ha szeretnéd megoldani a nehezített feladatot, akkor ehhez ez az elvárt eredmény:
 
 ![5 nap_nehezites1](https://user-images.githubusercontent.com/92752026/173405647-03bd5570-f877-4c97-850f-73021cabcf21.png)
+
+# 6. nap / Feladat részletes leírása!
+
+Az ikonok forrását itt találod:
+  
+- [nyitott lakat](https://www.devinexpertmode.hu/wp-content/uploads/2022/03/lock_open.png)
+- [zárt lakat](https://www.devinexpertmode.hu/wp-content/uploads/2022/03/lock_closed.png)
+
+Hozz létre egy tnfOpen nevű és egy tnfClose nevű CSS osztályt. Legyen mindkettőnek egy háttérképe, ami nem ismétlődik, és 15px-szer auto méretű. A tnfOpen háttérképének pozíciója legyen balról 0.5vw és fentről 1.2vh. A tnfClose háttérképének pozíciója legyen jobbról 0.5vw és fentről 1.2vh.
+
+Ezt az eredményt kell kapnod:
+  
+![6 nap-1](https://user-images.githubusercontent.com/92752026/173637644-6ff513b5-1bf9-4a43-8c64-9ffbff415549.png)

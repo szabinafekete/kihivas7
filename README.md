@@ -62,7 +62,7 @@ Eredményül ezt a kell, hogy kapd:
   
 ![4 nap-1](https://user-images.githubusercontent.com/92752026/173239336-60fe8bc2-a5fb-4c1d-bf9e-682d8feb4b43.png)
   
-(link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/){target="_blank"} )
+(link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/))
   
 # 5. nap / Feladat részletes leírása!
   
@@ -86,8 +86,8 @@ Ha szeretnéd megoldani a nehezített feladatot, akkor ehhez ez az elvárt eredm
 
 Az ikonok forrását itt találod:
   
-- [nyitott lakat](https://www.devinexpertmode.hu/wp-content/uploads/2022/03/lock_open.png){target="_blank"}
-- [zárt lakat](https://www.devinexpertmode.hu/wp-content/uploads/2022/03/lock_closed.png){target="_blank"}
+- [nyitott lakat](https://www.devinexpertmode.hu/wp-content/uploads/2022/03/lock_open.png)
+- [zárt lakat](https://www.devinexpertmode.hu/wp-content/uploads/2022/03/lock_closed.png)
 
 Hozz létre egy tnfOpen nevű és egy tnfClose nevű CSS osztályt. Legyen mindkettőnek egy háttérképe, ami nem ismétlődik, és 15px-szer auto méretű. A tnfOpen háttérképének pozíciója legyen balról 0.5vw és fentről 1.2vh. A tnfClose háttérképének pozíciója legyen jobbról 0.5vw és fentről 1.2vh.
 

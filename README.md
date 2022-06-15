@@ -1,4 +1,4 @@
-# 1. nap / Feladat részletes leírása!
+# 1. nap / Feladat leírása!
 
 Készítsd el az alap HTML dokumentum struktúrát (doctype, html, head, body).
 
@@ -12,7 +12,7 @@ Eredményül ezt a nézetet kell kapnod:
 
 (a példában én csak a második és harmadik sorba írtam bele a sorjelzőt, viszont mindenhol megvannak az üres sorok)
 
-# 2. nap / Feladat részletes leírása!
+# 2. nap / Feladat leírása!
 
 Készíts 1px vastag, vonalas szegélyt, #dddddd színben a táblázat köré.
 
@@ -28,7 +28,7 @@ Ezt az eredményt kell kapnod:
 
 ![2 nap-1](https://user-images.githubusercontent.com/92752026/173106893-3392baeb-c735-4e5f-8127-d9bcf50e46de.png)
 
-# 3. nap / Feladat részletes leírása!
+# 3. nap / Feladat leírása!
 
 A **táblázat** akkor igazán csinos, ha van egy kis sarokkerekítés. Kerekíts le a táblázat szegélyének sarkait 0.5vh értékkel, és növeld a táblázat szélességét 100%-ra.
 
@@ -42,7 +42,7 @@ Ezt kell kapnod eredményül:
 
 ![3 nap-1](https://user-images.githubusercontent.com/92752026/173191397-0f0a07a1-7507-4895-a138-61d191975b57.png)
 
-# 4. nap / Feladat részletes Készítsd el az alábbi nézetet a kép alapján!
+# 4. nap / Feladat leírása!
 
 Az ikonok forrását itt találod:
 
@@ -64,7 +64,7 @@ Eredményül ezt a kell, hogy kapd:
   
 (link: [https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/](https://webprogramozoleszek.hu/elerheto-tanfolyamok/bevezetes-a-webprogramozasba-tanfolyam/))
   
-# 5. nap / Feladat részletes leírása!
+# 5. nap / Feladat leírása!
   
 Az első tanfolyam példája alapján készítsd el a többi tanfolyam megjelenítését is.
 
@@ -82,7 +82,7 @@ Ha szeretnéd megoldani a nehezített feladatot, akkor ehhez ez az elvárt eredm
 
 ![5 nap_nehezites1](https://user-images.githubusercontent.com/92752026/173405647-03bd5570-f877-4c97-850f-73021cabcf21.png)
 
-# 6. nap / Feladat részletes leírása!
+# 6. nap / Feladat leírása!
 
 Az ikonok forrását itt találod:
   
@@ -94,3 +94,21 @@ Hozz létre egy tnfOpen nevű és egy tnfClose nevű CSS osztályt. Legyen mindk
 Ezt az eredményt kell kapnod:
   
 ![6 nap-1](https://user-images.githubusercontent.com/92752026/173637644-6ff513b5-1bf9-4a43-8c64-9ffbff415549.png)
+  
+# 7. nap / Feladat leírása!
+
+Hozz létre egy média screen blokkot, ami azt vizsgálja, hogy max szélesség 600px.
+
+Ebben a blokkban állítsd át a táblázat fejléc paddingját fent és lent 1vh-ra, és 2 oldalt 0.5vw-re. Legyen a betűméret itt 0.7em.
+
+A táblázat cella magassága legyen 1vh, a paddingja pedig fent és lent legyen 1vh, két oldalt pedig 2vh.
+
+A számokat tartalmazó cellák paddingja legyen lent és fent 0.3vh és két oldalt 0.
+
+A tnfColor osztállyal rendelkező elemek betűmérete legyen 0.9em.
+
+A lakat ikonok mérete legyen 12px-szer auto.
+
+Az eredmény:
+  
+![7 nap_1-1](https://user-images.githubusercontent.com/92752026/173883680-9c7368ca-3374-44be-ac44-2603a7c2153a.png)
